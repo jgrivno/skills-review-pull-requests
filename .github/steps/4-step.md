@@ -26,7 +26,7 @@ The **Add a suggestion** feature is a button in the comment text editor. It inse
 1. Edit the suggestion to match below and click the **Comment** button.
 
 <h2 hidden>Game over! Want to play again?! Just click refresh. 🧑🚀!</h2>
-   ```suggestion
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑🚀!</h2>
    <h2 hidden>Game over! Want to play again?! Just click refresh. 🧑‍🚀!</h2>
    ```
    Let's make it a bit more friendly. 🤓
