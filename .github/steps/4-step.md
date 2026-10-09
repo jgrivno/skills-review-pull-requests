@@ -21,12 +21,12 @@ The **Add a suggestion** feature is a button in the comment text editor. It inse
 
 1. Click the **Add a suggestion** button to insert a modifiable copy of the line.
 
-   <img width="300" alt="add-a-suggestion-button" src="../images/add-a-suggestion-button.png" />
+   <img width="300" alt="add-a-suggestion-button" src="https://github.com/jgrivno/skills-review-pull-requests/blob/main/.github/images/add-a-suggestion-button.png?raw=true" />
 
 1. Edit the suggestion to match below and click the **Comment** button.
 
-   ````md
-   ```suggestion
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑🚀!</h2>
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑🚀!</h2>
    <h2 hidden>Game over! Want to play again?! Just click refresh. 🧑‍🚀!</h2>
    ```
    Let's make it a bit more friendly. 🤓
